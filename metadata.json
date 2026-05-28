@@ -1,0 +1,6 @@
+{
+  "name": "FilingUniverse",
+  "description": "Premium modern tax & business compliance solutions for startups and modern businesses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
